@@ -2,7 +2,6 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://github.com/motielk">
@@ -18,3 +17,4 @@
 
 
 </div> 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
