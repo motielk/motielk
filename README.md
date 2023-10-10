@@ -24,6 +24,9 @@ Meu nome é Murilo, tenho 21 anos e estou determinado a entrar na indústria tec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width=75 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=75 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=75/>
+  <img src="https://github.com/motielk/motielk/assets/49123696/64d49547-e7e0-461d-80ef-dcdacb54185e)" width=75/>
+
+
 
 
 </div>
