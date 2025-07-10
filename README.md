@@ -12,7 +12,7 @@
 <div>
   
 ### :man_technologist: Sobre mim:
-Meu nome é Murilo, tenho 23 anos e estou determinado a entrar na indústria tecnológica. Cresci cercado pela evolução da tecnologia e isso despertou minha paixão pelo campo. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas na Facens, buscando ampliar meu conhecimento e habilidades para ter sucesso nessa indústria em constante mudança. Estou motivado a me tornar um profissional qualificado e contribuir para o avanço tecnológico.
+Formado em Análise e Desenvolvimento de Sistemas (Facens). Atualmente, estou focado em aprofundar meus conhecimentos em Análise de Dados, com o objetivo claro de me tornar um Cientista de Dados. Busco integrar minhas competências em redes de computadores e gerenciamento de serviços de TI com o universo dos dados para gerar insights mensuráveis e soluções inovadoras.
 </div>
 
 <div>
