@@ -12,18 +12,14 @@
 <div>
   
 ### :man_technologist: Sobre mim:
-Meu nome é Murilo, tenho 21 anos e estou determinado a entrar na indústria tecnológica. Cresci cercado pela evolução da tecnologia e isso despertou minha paixão pelo campo. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas na Facens, buscando ampliar meu conhecimento e habilidades para ter sucesso nessa indústria em constante mudança. Estou motivado a me tornar um profissional qualificado e contribuir para o avanço tecnológico.
+Meu nome é Murilo, tenho 23 anos e estou determinado a entrar na indústria tecnológica. Cresci cercado pela evolução da tecnologia e isso despertou minha paixão pelo campo. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas na Facens, buscando ampliar meu conhecimento e habilidades para ter sucesso nessa indústria em constante mudança. Estou motivado a me tornar um profissional qualificado e contribuir para o avanço tecnológico.
 </div>
 
 <div>
   
 ### :hammer_and_wrench: Linguagens e Ferramentas a ser estudada:
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg"  width=75/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width=75 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width=75 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=75 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=75/>
   <img src="https://github.com/motielk/motielk/assets/49123696/64d49547-e7e0-461d-80ef-dcdacb54185e)" width=75/>
 
 
