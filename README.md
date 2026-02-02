@@ -17,12 +17,7 @@ Formado em Análise e Desenvolvimento de Sistemas (Facens). Atualmente, estou fo
 
 <div>
   
-### :hammer_and_wrench: Linguagens e Ferramentas a ser estudada:
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width=75 />
-  <img src="https://github.com/motielk/motielk/assets/49123696/64d49547-e7e0-461d-80ef-dcdacb54185e)" width=75/>
-
-
+  [![My Skills](https://skillicons.dev/icons?i=java,py,html,css,powershell,vscode,windows)](https://skillicons.dev)
 
 
 </div>
