@@ -17,7 +17,7 @@ Formado em Análise e Desenvolvimento de Sistemas (Facens). Atualmente, estou fo
 
 <div>
   
-  [![My Skills](https://skillicons.dev/icons?i=java,py,html,css,powershell,vscode,windows)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,py,html,css,powershell,mysql,mongodb)](https://skillicons.dev)
 
 
 </div>
